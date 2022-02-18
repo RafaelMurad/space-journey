@@ -2,9 +2,7 @@
 
 # Space Journey
 
-find fascinating pictures of the universe and learn about the universe itself. Information provided by NASA.
-
-Every day a new picture will be provided and all the info related to the picture.
+Discover fascinating pictures of the universe. Every day a new picture will be provided and all the info related is prived by NASA APOD API.
 
 # Getting Started with Create React App
 
