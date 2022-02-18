@@ -1,3 +1,11 @@
+<img src="./public/orion-nebula-gea000b47f_1920.jpeg" alt="space" />
+
+# Space Journey
+
+find fascinating pictures of the universe and learn about the universe itself. Information provided by NASA.
+
+Every day a new picture will be provided and all the info related to the picture.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
