@@ -2,7 +2,9 @@
 
 # Space Journey
 
-Discover fascinating pictures of the universe. Every day a new picture will be provided and all the info related is prived by NASA APOD API.
+Discover fascinating pictures of the universe. Every day a new picture will be provided and all the info related is prived by the NASA API.
+
+to run the app you'll need create you api key in [NASA APOD API](https://api.nasa.gov/) then just add the api key in the .env-example file and rename it to .env .
 
 # Getting Started with Create React App
 
